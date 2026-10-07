@@ -1,6 +1,6 @@
 # SmartKeyboard
 
-Keychron K10 Pro ANSI용 펌웨어와 앱을 배포합니다.
+Keychron K10 Pro SE2 ZMK ANSI용 펌웨어와 앱을 배포합니다. 펌웨어 모델은 `KCZKK10M`입니다.
 
 ## 다운로드
 
