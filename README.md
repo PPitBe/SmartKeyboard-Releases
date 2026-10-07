@@ -8,7 +8,7 @@ Keychron K10 Pro ANSI용 펌웨어와 앱을 배포합니다.
 | --- | --- |
 | Windows | [SkApp.exe](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SkApp.exe) |
 | Android | [SkApp-android-arm64.apk](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SkApp-android-arm64.apk) |
-| iPhone | TestFlight 공개 초대 준비 중 |
+| iPhone | [TestFlight](https://testflight.apple.com/join/XjTpuFMJ) · 공개 테스트 준비 중 |
 | 펌웨어 | [SmartKeyboard-K10Pro-ANSI.bin](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SmartKeyboard-K10Pro-ANSI.bin) |
 
 ## 설치
