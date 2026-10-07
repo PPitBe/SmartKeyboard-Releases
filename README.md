@@ -8,7 +8,7 @@ Keychron K10 Pro SE2 ZMK ANSI용 펌웨어와 앱을 배포합니다. 펌웨어 
 | --- | --- |
 | Windows | [SkApp.exe](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SkApp.exe) |
 | Android | [SkApp-android-arm64.apk](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SkApp-android-arm64.apk) |
-| iPhone | [TestFlight](https://testflight.apple.com/join/XjTpuFMJ) · 공개 테스트 준비 중 |
+| iPhone | [TestFlight](https://testflight.apple.com/join/XjTpuFMJ) |
 | 펌웨어 | [SmartKeyboard-K10Pro-ANSI.bin](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SmartKeyboard-K10Pro-ANSI.bin) |
 
 ## 설치
@@ -21,6 +21,8 @@ Keychron K10 Pro SE2 ZMK ANSI용 펌웨어와 앱을 배포합니다. 펌웨어 
 ## 업데이트
 
 앱의 ‘업데이트’에서 새 버전을 확인합니다. 앱을 열 때도 자동으로 확인합니다.
+
+iPhone 공개 설치 상태는 최신 릴리스 설명에서 확인할 수 있습니다.
 
 펌웨어는 Windows 앱에서 USB로 업데이트합니다. 무선 펌웨어 업데이트는 준비 중입니다. 키보드에 설치된 펌웨어 버전은 앱에서 확인할 수 없습니다.
 
