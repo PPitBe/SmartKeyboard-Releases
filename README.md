@@ -18,6 +18,13 @@ Keychron K10 Pro SE2 ZMK ANSI용 펌웨어와 앱을 배포합니다. 펌웨어 
 - iPhone: TestFlight를 이용합니다. 공개 초대 링크 설치는 외부 테스트 승인 전까지 준비 상태입니다.
 - 펌웨어: 키보드를 USB로 연결하고 [설치 도구](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SmartKeyboard-Installer.exe)를 실행합니다. 설치 중에는 케이블을 분리하지 마세요. 설치 도구에서 순정 펌웨어로 되돌릴 수 있습니다.
 
+## Android Fn+C
+
+앱에서 ‘Fn+C로 선택한 글 보내기’를 설정하고 접근성 기능을 켭니다.
+다른 앱에서 글 선택 → Fn+C → 받는 PC에서 Fn+V 순서로 사용합니다.
+선택 영역을 제공하지 않는 앱에서는 해당 앱의 복사·공유 기능을 사용해 주세요.
+기능을 끄면 기존 ‘복사 → Fn+C’ 방식으로 동작합니다.
+
 ## 업데이트
 
 앱의 ‘업데이트’에서 새 버전을 확인합니다. 앱을 열 때도 자동으로 확인합니다.
