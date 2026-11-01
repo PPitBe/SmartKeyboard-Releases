@@ -35,6 +35,8 @@ iPhone 공개 설치 상태는 최신 릴리스 설명에서 확인할 수 있�
 
 BLE 버전 조회를 지원하는 펌웨어는 앱에서 설치 버전을 확인할 수 있습니다. 구형 펌웨어는 버전 확인을 지원하지 않을 수 있습니다.
 
+앱 1.0.11부터 완료 후 상세 정보에 확인된 펌웨어와 업데이트 전 펌웨어를 구분해 표시합니다. 전송 당시 MTU·전원은 과거 기록입니다. 상세 내용을 복사하려면 ‘업데이트 정보 복사’를 누릅니다. 이전 앱에서는 ‘오류 정보 복사’로 표시됩니다.
+
 파일별 버전과 SHA-256은 [배포 정보](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/update.json)에 있습니다. 이전 파일은 [릴리스 목록](https://github.com/PPitBe/SmartKeyboard-Releases/releases)에서 받을 수 있습니다.
 
 ## 무선 업데이트 실기 결과
