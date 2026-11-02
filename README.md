@@ -18,12 +18,11 @@ Keychron K10 Pro SE2 ZMK ANSI용 펌웨어와 앱을 배포합니다. 펌웨어 
 - iPhone: TestFlight를 이용합니다. 공개 초대 링크 설치는 외부 테스트 승인 전까지 준비 상태입니다.
 - 펌웨어: 키보드를 USB로 연결하고 [설치 도구](https://github.com/PPitBe/SmartKeyboard-Releases/releases/latest/download/SmartKeyboard-Installer.exe)를 실행합니다. 설치 중에는 케이블을 분리하지 마세요. 설치 도구에서 순정 펌웨어로 되돌릴 수 있습니다.
 
-## Android 1.0.12 복구
+## Android 1.0.15 복구 업데이트
 
-UI 변경 후 연결 대기와 빈 화면 문제가 보고되어 Android 앱을 1.0.12 코드로 되돌렸습니다.
-설치 번호는 2016입니다. 기존 앱 위에 설치할 수 있습니다.
-1.0.13·1.0.14에서는 위 Android APK를 직접 내려받아 설치하세요.
-앱 데이터와 키보드 페어링은 삭제하지 않아도 됩니다.
+UI 변경 전 1.0.12의 화면과 동작으로 복원합니다.
+앱 내부 업데이트를 위해 배포 버전은 1.0.15, 설치 번호는 2017로 높였습니다.
+앱 설정에서 업데이트를 다시 확인하고 설치하세요. 앱 데이터와 페어링은 유지합니다.
 
 ## Android Fn+C
 
